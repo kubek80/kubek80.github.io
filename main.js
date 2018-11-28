@@ -619,7 +619,7 @@ var WebsocketService = /** @class */ (function () {
         this.send = function (message) {
             _this.socket.next(message);
         };
-        this.socket = Object(rxjs_websocket__WEBPACK_IMPORTED_MODULE_1__["webSocket"])('ws://echo.websocket.org/');
+        this.socket = Object(rxjs_websocket__WEBPACK_IMPORTED_MODULE_1__["webSocket"])('wss://echo.websocket.org');
     }
     WebsocketService = __decorate([
         Object(_angular_core__WEBPACK_IMPORTED_MODULE_0__["Injectable"])({
