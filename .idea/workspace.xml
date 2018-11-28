@@ -2,42 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8794f369-1804-4c59-a6cd-68744f4e77cd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pos/assets/avocado.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pos/assets/chocolate-strawberry.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pos/assets/frosted-coffee.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pos/assets/green-apple.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pos/assets/kiwi-banana.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pos/assets/mango-banana.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pos/assets/melon-mint.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pos/assets/orange-carrot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pos/assets/rapsberry-banana.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pos/assets/strawberry.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pos/assets/vanilla.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pos/assets/watermelon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pos/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pos/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pos/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pos/polyfills.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pos/runtime.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pos/styles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pos/vendor.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app.bundle.js" afterPath="$PROJECT_DIR$/react-checkout/app.bundle.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app.bundle.js.map" afterPath="$PROJECT_DIR$/react-checkout/app.bundle.js.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/avocado.png" afterPath="$PROJECT_DIR$/react-checkout/assets/avocado.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/chocolate-strawberry.png" afterPath="$PROJECT_DIR$/react-checkout/assets/chocolate-strawberry.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/frosted-coffee.png" afterPath="$PROJECT_DIR$/react-checkout/assets/frosted-coffee.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/green-apple.png" afterPath="$PROJECT_DIR$/react-checkout/assets/green-apple.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/kiwi-banana.png" afterPath="$PROJECT_DIR$/react-checkout/assets/kiwi-banana.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/mango-banana.png" afterPath="$PROJECT_DIR$/react-checkout/assets/mango-banana.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/melon-mint.png" afterPath="$PROJECT_DIR$/react-checkout/assets/melon-mint.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/orange-carrot.png" afterPath="$PROJECT_DIR$/react-checkout/assets/orange-carrot.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/rapsberry-banana.png" afterPath="$PROJECT_DIR$/react-checkout/assets/rapsberry-banana.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/strawberry.png" afterPath="$PROJECT_DIR$/react-checkout/assets/strawberry.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/vanilla.png" afterPath="$PROJECT_DIR$/react-checkout/assets/vanilla.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/watermelon.png" afterPath="$PROJECT_DIR$/react-checkout/assets/watermelon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/react-checkout/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor.bundle.js" afterPath="$PROJECT_DIR$/react-checkout/vendor.bundle.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor.bundle.js.map" afterPath="$PROJECT_DIR$/react-checkout/vendor.bundle.js.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pos/assets/avocado.png" afterPath="$PROJECT_DIR$/assets/avocado.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pos/assets/chocolate-strawberry.png" afterPath="$PROJECT_DIR$/assets/chocolate-strawberry.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pos/assets/frosted-coffee.png" afterPath="$PROJECT_DIR$/assets/frosted-coffee.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pos/assets/green-apple.png" afterPath="$PROJECT_DIR$/assets/green-apple.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pos/assets/kiwi-banana.png" afterPath="$PROJECT_DIR$/assets/kiwi-banana.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pos/assets/mango-banana.png" afterPath="$PROJECT_DIR$/assets/mango-banana.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pos/assets/melon-mint.png" afterPath="$PROJECT_DIR$/assets/melon-mint.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pos/assets/orange-carrot.png" afterPath="$PROJECT_DIR$/assets/orange-carrot.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pos/assets/rapsberry-banana.png" afterPath="$PROJECT_DIR$/assets/rapsberry-banana.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pos/assets/strawberry.png" afterPath="$PROJECT_DIR$/assets/strawberry.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pos/assets/vanilla.png" afterPath="$PROJECT_DIR$/assets/vanilla.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pos/assets/watermelon.png" afterPath="$PROJECT_DIR$/assets/watermelon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pos/favicon.ico" afterPath="$PROJECT_DIR$/favicon.ico" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pos/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pos/main.js" afterPath="$PROJECT_DIR$/main.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pos/polyfills.js" afterPath="$PROJECT_DIR$/polyfills.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pos/runtime.js" afterPath="$PROJECT_DIR$/runtime.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pos/styles.js" afterPath="$PROJECT_DIR$/styles.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/pos/vendor.js" afterPath="$PROJECT_DIR$/vendor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -128,12 +112,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543406000190</updated>
-      <workItem from="1543406002364" duration="85000" />
+      <workItem from="1543406002364" duration="250000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85000" />
+    <option name="totallyTimeSpent" value="250000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="800" extended-state="6" />
